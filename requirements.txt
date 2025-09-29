@@ -1,0 +1,5 @@
+kagglehub
+scikit-image
+scikit-learn
+opencv-python
+matplotlib
